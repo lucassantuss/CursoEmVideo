@@ -46,7 +46,6 @@ else
     printf('O valor {num} é IMPAR')
 ```
 
-EMOJIS
 Olá, pequeno Gafanhoto 🖖 ✋
 
 Como diria @Gafanhotos: "Eu estou com sono"
